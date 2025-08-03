@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hi, I'm Senior DevOps Engineer</h2>
+<h2 align="left">I'm Senior DevOps Engineer</h2>
 
 ###
 
