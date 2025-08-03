@@ -73,4 +73,4 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/eslam-adel92/Eslam-Adel/refs/heads/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/eslam-adel92/eslam-adel92/refs/heads/output/snake.svg" alt="Snake animation" />
