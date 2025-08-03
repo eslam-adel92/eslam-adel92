@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">Eslam Adel</p>
-
-###
-
 <h2 align="left">Hi, I'm Senior DevOps Engineer</h2>
 
 ###
