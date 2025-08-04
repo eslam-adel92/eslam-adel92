@@ -68,9 +68,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" height="40" alt="mariadb logo"  />
 </div>
 
-<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=eslam-adel92)](https://github.com/eslam-adel92/github-profile-trophy)
+
+
+<div align="مثسبف">
   <img src="https://github-readme-stats.vercel.app/api?username=eslam-adel92&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-
 
 <img src="https://raw.githubusercontent.com/eslam-adel92/eslam-adel92/refs/heads/output/snake.svg" alt="Snake animation" />
