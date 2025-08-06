@@ -20,7 +20,7 @@
   </p>
 
 
-<h3 align="left">🛠 Knowledge and tools</h3>
+<h3 align="left">🛠 Techology Stack and Experience 💻</h3>
 
 ###
 
@@ -41,7 +41,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original-wordmark.svg" height="40" alt="cloudflare logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" height="40" alt="ansible logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="40" alt="ansible logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original-wordmark.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
